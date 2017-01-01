@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.resurrection.ota.fragments;
+package com.aicp.aicpota.fragments;
 
 import android.content.SharedPreferences;
 import android.os.AsyncTask;
@@ -25,14 +25,14 @@ import android.preference.PreferenceCategory;
 import android.preference.PreferenceFragment;
 import android.preference.PreferenceScreen;
 
-import com.resurrection.ota.R;
-import com.resurrection.ota.configs.AppConfig;
-import com.resurrection.ota.configs.LinkConfig;
-import com.resurrection.ota.configs.OTAVersion;
-import com.resurrection.ota.dialogs.WaitDialogFragment;
-import com.resurrection.ota.tasks.CheckUpdateTask;
-import com.resurrection.ota.utils.OTAUtils;
-import com.resurrection.ota.xml.OTALink;
+import com.aicp.aicpota.R;
+import com.aicp.aicpota.configs.AppConfig;
+import com.aicp.aicpota.configs.LinkConfig;
+import com.aicp.aicpota.configs.OTAVersion;
+import com.aicp.aicpota.dialogs.WaitDialogFragment;
+import com.aicp.aicpota.tasks.CheckUpdateTask;
+import com.aicp.aicpota.utils.OTAUtils;
+import com.aicp.aicpota.xml.OTALink;
 
 import java.util.List;
 

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.resurrection.ota.xml;
+package com.aicp.aicpota.xml;
 
 import android.util.Xml;
 

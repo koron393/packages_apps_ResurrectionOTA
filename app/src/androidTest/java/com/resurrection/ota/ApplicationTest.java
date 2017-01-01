@@ -1,4 +1,4 @@
-package com.resurrection.ota;
+package com.aicp.aicpota;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
